@@ -1,0 +1,15 @@
+{
+    "name": "AnuCoin",
+    "symbol": "AC❤️",
+    "description": "Only Possible On Solana",
+    "image": "https://raw.githubusercontent.com/arpit2425/token-images/main/images/ac.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
+
+
+//   spl-token initialize-metadata 3A8Q9FLZ1WoTTXb4DftUqZMSPi9Ugg9BfsUJoKiB4rXd "AnuCoin" "AC❤️" "https://raw.githubusercontent.com/arpit2425/token-images/main/metadatas/anu_coin.json"
